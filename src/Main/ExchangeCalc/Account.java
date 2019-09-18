@@ -1,4 +1,4 @@
-package Main;
+package Main.ExchangeCalc;
 
 public class Account {
     private float maxMoney;

@@ -1,4 +1,4 @@
-package Main;
+package Main.ExchangeCalc;
 
 import javax.swing.*;
 import java.awt.*;

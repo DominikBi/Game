@@ -1,4 +1,4 @@
-package Main;
+package Main.Snake;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,6 +1,5 @@
-package Main;
+package Main.Snake;
 
-import oracle.jrockit.jfr.JFR;
 
 import javax.swing.*;
 import java.awt.*;
